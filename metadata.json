@@ -1,0 +1,6 @@
+{
+  "name": "ARCTIC-INTEL | High North Geopolitical Intelligence Dashboard",
+  "description": "Executive geopolitical intelligence dashboard and interactive mind map synthesizing Arctic sovereignty, resource competition, and High North security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
